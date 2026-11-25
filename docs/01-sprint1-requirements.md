@@ -16,6 +16,7 @@
 6. Целевой балл (калькулятор).
 
 Схема переходов: `images/screen-flow.png`. Прототипы: `images/wireframes.png`.
+<img width="832" height="543" alt="image" src="https://github.com/user-attachments/assets/fa097a6f-2a66-48d0-81b2-5b355f78f9ab" />
 
 ![flow](images/screen-flow.png)
 ![wireframes](images/wireframes.png)
